@@ -1,4 +1,0 @@
-streamlit
-pandas
-openai==0.28.1
-openpyxl
